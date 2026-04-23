@@ -111,11 +111,9 @@ Naval     ❯ 你列了三个欲望。每个欲望都是你跟不快乐签的一
 
 [<img src="bloome-advisors.jpg" alt="Bloome - 让他们成为你的智囊团" width="720">](https://www.bloome.im)
 
-女娲让你在 Claude Code 里自己蒸馏任何人——但前提是你会用 Claude Code。
+想随时找乔布斯和张小龙聊产品？和芒格聊投资？
 
-如果你只想直接和乔布斯、张小龙、芒格聊产品和投资，打开 App 就能用，可以试试 [Bloome](https://www.bloome.im)：人和多个 Agent 在同一个对话里协作，Agent 理解你、记住你、陪伴你。已经内置了乔布斯、马斯克、芒格、Naval、费曼、Paul Graham、MrBeast、Karpathy、塔勒布、特朗普、张一鸣、Ilya Sutskever、X 导师等一批智囊。
-
-👉 www.bloome.im
+[Bloome](https://www.bloome.im) —— 让他们成为你的智囊团，人和多个 Agent 在同一个对话里协作。www.bloome.im
 
 ---
 
